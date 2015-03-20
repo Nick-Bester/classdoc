@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.9.1">
+  <compound refid="classafternoon_session" kind="class"><name>afternoonSession</name>
+  </compound>
+  <compound refid="class_class_doc_1_1_conference" kind="class"><name>ClassDoc::Conference</name>
+  </compound>
+  <compound refid="class_day" kind="class"><name>Day</name>
+  </compound>
+  <compound refid="class_equipment" kind="class"><name>Equipment</name>
+  </compound>
+  <compound refid="class_event" kind="class"><name>Event</name>
+  </compound>
+  <compound refid="class_lincoln" kind="class"><name>Lincoln</name>
+  </compound>
+  <compound refid="classmornin_session" kind="class"><name>morninSession</name>
+  </compound>
+  <compound refid="classparallel_session" kind="class"><name>parallelSession</name>
+  </compound>
+  <compound refid="classparticipating_business" kind="class"><name>participatingBusiness</name>
+  </compound>
+  <compound refid="class_payment" kind="class"><name>Payment</name>
+  </compound>
+  <compound refid="class_people" kind="class"><name>People</name>
+  </compound>
+  <compound refid="class_presentation" kind="class"><name>Presentation</name>
+  </compound>
+  <compound refid="class_projector__white_board___speakers___microphone" kind="class"><name>Projector_whiteBoard_Speakers_Microphone</name>
+  </compound>
+  <compound refid="class_record" kind="class"><name>Record</name>
+  </compound>
+  <compound refid="classregistration_form" kind="class"><name>registrationForm</name>
+  </compound>
+  <compound refid="class_resources" kind="class"><name>Resources</name>
+  </compound>
+  <compound refid="class_room" kind="class"><name>Room</name>
+  </compound>
+  <compound refid="class_roosevelt" kind="class"><name>Roosevelt</name>
+  </compound>
+  <compound refid="classscheduleof_sessionsper_conference" kind="class"><name>scheduleofSessionsperConference</name>
+  </compound>
+  <compound refid="class_session" kind="class"><name>Session</name>
+  </compound>
+  <compound refid="classspecial_session" kind="class"><name>specialSession</name>
+  </compound>
+  <compound refid="class_washington" kind="class"><name>Washington</name>
+  </compound>
+  <compound refid="namespace_class_doc" kind="namespace"><name>ClassDoc</name>
+  </compound>
+  <compound refid="namespace_system" kind="namespace"><name>System</name>
+  </compound>
+  <compound refid="namespace_system_1_1_collections_1_1_generic" kind="namespace"><name>System::Collections::Generic</name>
+  </compound>
+  <compound refid="namespace_system_1_1_linq" kind="namespace"><name>System::Linq</name>
+  </compound>
+  <compound refid="namespace_system_1_1_text" kind="namespace"><name>System::Text</name>
+  </compound>
+  <compound refid="namespace_system_1_1_threading_1_1_tasks" kind="namespace"><name>System::Threading::Tasks</name>
+  </compound>
+  <compound refid="afternoon_session_8cs" kind="file"><name>afternoonSession.cs</name>
+  </compound>
+  <compound refid="_confrence_8cs" kind="file"><name>Confrence.cs</name>
+  </compound>
+  <compound refid="_day_8cs" kind="file"><name>Day.cs</name>
+  </compound>
+  <compound refid="_equipment_8cs" kind="file"><name>Equipment.cs</name>
+  </compound>
+  <compound refid="_event_8cs" kind="file"><name>Event.cs</name>
+  </compound>
+  <compound refid="_lincoln_8cs" kind="file"><name>Lincoln.cs</name>
+  </compound>
+  <compound refid="morning_session_8cs" kind="file"><name>morningSession.cs</name>
+  </compound>
+  <compound refid="parallel_session_8cs" kind="file"><name>parallelSession.cs</name>
+  </compound>
+  <compound refid="participating_business_8cs" kind="file"><name>participatingBusiness.cs</name>
+  </compound>
+  <compound refid="_payment_8cs" kind="file"><name>Payment.cs</name>
+  </compound>
+  <compound refid="_people_8cs" kind="file"><name>People.cs</name>
+  </compound>
+  <compound refid="_presentaion_8cs" kind="file"><name>Presentaion.cs</name>
+  </compound>
+  <compound refid="_projector__white_board___speakers___microphone_8cs" kind="file"><name>Projector_whiteBoard_Speakers_Microphone.cs</name>
+  </compound>
+  <compound refid="_record_8cs" kind="file"><name>Record.cs</name>
+  </compound>
+  <compound refid="registration_form_8cs" kind="file"><name>registrationForm.cs</name>
+  </compound>
+  <compound refid="_resources_8cs" kind="file"><name>Resources.cs</name>
+  </compound>
+  <compound refid="_room_8cs" kind="file"><name>Room.cs</name>
+  </compound>
+  <compound refid="_roosevelt_8cs" kind="file"><name>Roosevelt.cs</name>
+  </compound>
+  <compound refid="_scheduleof_sessionsper_conference;_8cs" kind="file"><name>ScheduleofSessionsperConference;.cs</name>
+  </compound>
+  <compound refid="_session_8cs" kind="file"><name>Session.cs</name>
+  </compound>
+  <compound refid="special_session_8cs" kind="file"><name>specialSession.cs</name>
+  </compound>
+  <compound refid="_washington_8cs" kind="file"><name>Washington.cs</name>
+  </compound>
+</doxygenindex>

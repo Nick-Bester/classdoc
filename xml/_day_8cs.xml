@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.9.1">
+  <compounddef id="_day_8cs" kind="file" language="C#">
+    <compoundname>Day.cs</compoundname>
+    <innerclass refid="class_day" prot="public">Day</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="keyword">using</highlight><highlight class="normal"><sp/><ref refid="namespace_system" kindref="compound">System</ref>;</highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight></codeline>
+<codeline lineno="3" refid="class_day" refkind="compound"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="class_day" kindref="compound">Day</ref></highlight></codeline>
+<codeline lineno="4"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//Definition:</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//A<sp/>unit<sp/>of<sp/>time<sp/>containing<sp/>a<sp/>partial<sp/>or<sp/>an<sp/>entire<sp/>event.<sp/>In<sp/>some<sp/>cases,<sp/>multiple<sp/>events<sp/>can<sp/>occur<sp/>on<sp/>the<sp/>same<sp/>day,<sp/>should<sp/>the<sp/>resources<sp/>permit<sp/>it.<sp/>It<sp/>has<sp/>two<sp/>AM<sp/>sessions,<sp/>and<sp/>two<sp/>PM<sp/>sessions.<sp/></highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="7"><highlight class="normal"></highlight><highlight class="comment">//Constraints:<sp/></highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//Only<sp/>two<sp/>AM<sp/>and<sp/>PM<sp/>sessions<sp/>can<sp/>run<sp/>concurrently,<sp/>regardless<sp/>of<sp/>if<sp/>they<sp/>are<sp/>special<sp/>sessions.<sp/>A<sp/>session<sp/>is<sp/>part<sp/>of<sp/>a<sp/>conference.<sp/>Uses<sp/>a<sp/>room<sp/>and<sp/>equipment.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="9"><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/Brian/Desktop/Stark/classdoc/Day.cs"/>
+  </compounddef>
+</doxygen>
